@@ -1,2 +1,2 @@
-# Chick-Shop
-Chick-shop a online shopping site
+# Chick-Shop-
+E-commerce website
